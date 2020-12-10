@@ -7,8 +7,8 @@ import Cart from './Cart';
 import './App.css';
 
 const items = [
-  { id: 1, name: 'Garlic Bread', price: 4.50, qty: 4 },
-  { id: 2, name: 'Buffalo Wings', price: 6.30, qty: 10 },
+  { id: 1, name: 'Garlic Bread', price: 4.50, qty: 1 },
+  { id: 2, name: 'Buffalo Wings', price: 6.30, qty: 1 },
   { id: 3, name: 'Classic Burger', price: 10, qty: 1 },
 ]
 
